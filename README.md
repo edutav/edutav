@@ -1,10 +1,7 @@
 # Welcome! 
 
-## I'm Eduardo Tavares 
-
-I'm Full Stack Developer Developer 🖥
-
-I’m from Brazil. 🇧🇷 
+## Hi there 👋 
+I'm Eduardo Tavares, I'm a full stack developer and I've been working with technology since 2010. I'm from Brazil and I currently live in Amazonas
 
 ## About me
 
